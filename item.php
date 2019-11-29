@@ -183,7 +183,7 @@ $resultforjson=getArraySQL($info_log_meli);
 
 
 $json_string= json_encode($resultforjson);
-$file = 'clientes.json'; file_put_contents($file, $json_string);
+$file = 'items.json'; file_put_contents($file, $json_string);
 }
 catch (Exception $e) { 	
 
