@@ -6,4 +6,4 @@ También se debera contar con un motor de base de datos sql como MARIADB o Mysql
 
 
 
-El archivo item.php creará un archivo Json de tipo log con los datos correspondientes a un LOG. El nombre del archivo es: items.json
+El archivo item.php creará un archivo Json de tipo log con los datos correspondientes a un LOG. El nombre del archivo será: items.json
