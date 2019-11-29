@@ -3,3 +3,7 @@ Lo unico necesario para ejecutar el script php es cambiar las variables principa
 En caso de no tener un entorno php acceder al siguiente link para realizar su instalación: https://www.php.net/manual/es/install.php
 
 También se debera contar con un motor de base de datos sql como MARIADB o Mysql , el resto de motores SQL como SQL server o Oracle SQL se pueden usar pero tienen sintaxis diferente en algunos casos por lo tanto es muy probable que no funcione correctamente en esos ultimos 2 casos.
+
+
+
+El archivo item.php creará un archivo Json de tipo log con los datos correspondientes a un LOG.
