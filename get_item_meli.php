@@ -1,5 +1,15 @@
 <?php
 
+/*ingresar los datos para el funcionamiento de la base de datos*/
+
+$nombre_bd="reemplazarnombre";
+
+ $usuario="user"
+$contraseña="password";
+
+$ip_server="localhost";
+
+
 try {
     $bd_connection = new PDO
 ('mysql:host=$ip_server;dbname=$nombre_bd', $usuario, $contraseña);
