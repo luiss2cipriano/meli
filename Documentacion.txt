@@ -1,0 +1,5 @@
+Lo unico necesario para ejecutar el script php es cambiar las variables principales que estan en las primeras lineas de codigo. Sirven para connectarse a una base de datos y la informacion es de acuerdo al entorno, nombre de la base de datos, usuario ,contraseña .Se necesita que contenga la tabla "item" con datos y los campos mensionados en el ejercicio, para poder probarla.
+
+En caso de no tener un entorno php acceder al siguiente link para realizar su instalación: https://www.php.net/manual/es/install.php
+
+También se debera contar con un motor de base de datos sql como MARIADB o Mysql , el resto de motores SQL como SQL server o Oracle SQL se pueden usar pero tienen sintaxis diferente en algunos casos por lo tanto es muy probable que no funcione correctamente en esos ultimos 2 casos.
